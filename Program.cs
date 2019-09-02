@@ -16,7 +16,7 @@ namespace Visual_Studio_2019_Csharp_Get_Demo
         {
 
             // Var to hold a string and to run the while loop.
-            string name = "";
+            String name = "";
             String exit = "Yes";
 
             Console.WriteLine("Hopefuly I remember how to code in C#.");
